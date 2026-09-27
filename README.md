@@ -17,7 +17,7 @@
   - Jupyter Notebook を中心に、AI/FPGA の実験や検証を行う
 
 - sima
-　-　Sima.ai Modalixに関するTips
+　- Sima.ai Modalixに関するTips
   - Python を使った実験・ツール開発や技術メモの保管場所
   - 「sima tips」として、知識や小さな実装の蓄積を目的にしている
 
