@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-私は Shimemar です。以下は、私が持っているリポジトリーの簡単な紹介です。
+私は Shimemaru です。以下は、私が持っているリポジトリーの簡単な紹介です。
 
 ### Repositories
 
